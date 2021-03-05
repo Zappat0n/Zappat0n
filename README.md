@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Angel Barros</h1>
-<h3 align="center">I am currently learning Front-End Development in Microverse</h3>
+<h3 align="center">Financial analyst with more than 5 years of experience developing Java applications for the financial and education sectors.<br>
+I am currently learning Front-End Development in Microverse</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zappat0n&label=Profile%20views&color=0e75b6&style=flat" alt="zappat0n" /> </p>
 
