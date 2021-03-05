@@ -6,8 +6,6 @@ I am currently learning Front-End Development in Microverse</h3>
 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zappat0n" alt="zappat0n" /></a>
 
-- 🌱 Learning **HTML and CSS**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/angel-barros/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/angel-barros/" height="30" width="40" /></a>
