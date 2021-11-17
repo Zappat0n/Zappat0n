@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Angel Barros</h1>
 <h5>Financial analyst with more than 5 years of experience developing Java applications for the financial and education sectors.<br>
-I have finished learning Full Stack Development in Microverse.</h5>
+I am currenty working at Ofri.ch.</h5>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zappat0n&label=Profile%20views&color=0e75b6&style=flat" alt="zappat0n" /> </p>
 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zappat0n" alt="zappat0n" /></a>
