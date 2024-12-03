@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Angel Barros</h1>
-<h5>Financial analyst with more than 5 years of experience developing Java applications for the financial and education sectors.<br>
-I am currenty working at Ofri.ch.</h5>
+<h5>A Ruby on Rails software developer</h5>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zappat0n&label=Profile%20views&color=0e75b6&style=flat" alt="zappat0n" /> </p>
 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zappat0n" alt="zappat0n" /></a>
@@ -12,20 +11,20 @@ I am currenty working at Ofri.ch.</h5>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://www.java.com" target="_blank">
-    <img src="assets/java.svg" alt="java" width="40" height="40"/>
-  </a>
   <a href="https://www.ruby-lang.org/en/" target="_blank">
     <img src="assets/ruby.svg" mysql" width="40" height="40"/>
   </a>
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="assets/html.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-   <img src="assets/css.svg" alt="css3" width="40" height="40"/>
-  </a>
   <a href="https://rubyonrails.org/" target="_blank">
     <img src="assets/rails.svg" mysql" width="40" height="40"/>
+  </a>
+  <a href="https://www.javascript.com/" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000" mysql" width="40" height="40"/>
+  </a>
+  <a href="https://www.java.com" target="_blank">
+    <img src="assets/java.svg" alt="java" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank">
+    <img src="assets/html.svg" alt="html5" width="40" height="40"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank">
     <img src="assets/mysql.svg" mysql" width="40" height="40"/>
