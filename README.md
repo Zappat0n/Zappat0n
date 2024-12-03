@@ -42,12 +42,4 @@ I am currenty working at Ofri.ch.</h5>
   <a href="https://git-scm.com/" target="_blank">
     <img src="assets/github.svg" alt="git" width="40" height="40"/>
   </a>
-
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=zappat0n&show_icons=true&locale=en" alt="zappat0n" />&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zappat0n&show_icons=true&locale=en&layout=compact" alt="zappat0n" /></p>
-<br>
-<br>
-<p>
-Icons by <a href="https://iconscout.com/contributors/icon-mafia">Icon Mafia</a> on <a href="https://iconscout.com">Iconscout</a>
 </p>
